@@ -17,5 +17,5 @@
 **@thirdweb/js**
 - [Bug report] `camel-case` 대신 `kebab-case` 사용으로 인한 invalid DOM property 버그 제보 (https://github.com/thirdweb-dev/js/issues/2296)
 
-### [Portfolio](https://sollee-dev.notion.site/0066c9b8cfa04a7abbb4277ce8b63181)
+### 🌈[Portfolio](https://sollee-dev.notion.site/0066c9b8cfa04a7abbb4277ce8b63181) | 📔[Blog](https://dev.to/solleedata)
 
