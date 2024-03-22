@@ -6,7 +6,7 @@
 
 **@toss/slash**
 - [Bugfix] 테스트 코드 타입에 lint 에러를 `string assertion`으로 해결 (https://github.com/toss/slash/pull/440)
-- [Bugfix, test] 불리언 타입 추론 버그 픽스 및 테스트 코드 추가 (https://github.com/toss/slash/pull/442)
+- [Bugfix, Test] 불리언 타입 추론 버그 픽스 및 테스트 코드 추가 (https://github.com/toss/slash/pull/442)
 - [Refactor] `isServer()` 함수 리팩토링 (https://github.com/toss/slash/pull/447)
 
 **shadcn-svelte**
