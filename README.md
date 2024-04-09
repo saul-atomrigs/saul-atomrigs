@@ -18,6 +18,9 @@
 **@vercel/swr**
 - [Fix] Deno에서 deprecated된 `window` 전역 객체를 `globalThis` 로 변경 (https://github.com/vercel/swr/pull/2915)
 
+**@remix-run/react-router**
+- [Docs] 공식 문서 오타 정정 (https://github.com/remix-run/react-router/pull/11414)
+
 **@thirdweb/js**
 - [Bug report] `camel-case` 대신 `kebab-case` 사용으로 인한 invalid DOM property 버그 제보 (https://github.com/thirdweb-dev/js/issues/2296)
 
