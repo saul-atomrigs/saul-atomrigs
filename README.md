@@ -1,4 +1,4 @@
-### Open Source Contributions
+### 🍀 Open Source Contributions
 
 **@TanStack/query**
 - [Refactor] `noop` 유틸 함수를 모노레포 내 각 유틸 함수 모음 파일로 이동 (https://github.com/TanStack/query/pull/6964)
