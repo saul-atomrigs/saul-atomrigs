@@ -11,6 +11,7 @@
 
 **shadcn-svelte**
 - [Refactor] `catch` 블록 내 `console.log` 를 `console.error`로 변경하여 에러 핸들링 향상 (https://github.com/huntabyte/shadcn-svelte/pull/763)
+- [Docs] 예제 코드 변수명 개선 (https://github.com/huntabyte/shadcn-svelte/pull/999)
 
 **@vercel/next.js**
 - [Docs] 공식 문서 내 영문 문장 표현 개선 (https://github.com/vercel/next.js/pull/63355)
