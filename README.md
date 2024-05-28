@@ -8,6 +8,7 @@
 - [Bugfix] 테스트 코드 타입에 lint 에러를 `string assertion`으로 해결 (https://github.com/toss/slash/pull/440)
 - [Bugfix, Test] 불리언 타입 추론 버그 픽스 및 테스트 코드 추가 (https://github.com/toss/slash/pull/442)
 - [Refactor] `isServer()` 함수 리팩토링 (https://github.com/toss/slash/pull/447)
+- [Docs] `async` 키워드 추가 (https://github.com/toss/slash/pull/462/files)
 
 **shadcn-svelte**
 - [Refactor] `catch` 블록 내 `console.log` 를 `console.error`로 변경하여 에러 핸들링 향상 (https://github.com/huntabyte/shadcn-svelte/pull/763)
