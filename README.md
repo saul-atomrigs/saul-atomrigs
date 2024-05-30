@@ -1,4 +1,9 @@
-### 🍀 Open Source Contributions
+### 🙋🏻‍♂️ About me
++3 year experience web frontend engineer living and working in Seoul, Korea.
+
+Continuosly making problem solving software with high quality code and design.
+
+### 🍀 Open Source Contributor
 
 **@TanStack/query**
 - [Refactor] `noop` 유틸 함수를 모노레포 내 각 유틸 함수 모음 파일로 이동 (https://github.com/TanStack/query/pull/6964)
@@ -26,5 +31,7 @@
 **@thirdweb/js**
 - [Bug report] `camel-case` 대신 `kebab-case` 사용으로 인한 invalid DOM property 버그 제보 (https://github.com/thirdweb-dev/js/issues/2296)
 
-### 🌈[Portfolio](https://sollee-dev.notion.site/0066c9b8cfa04a7abbb4277ce8b63181) | 📔[Blog](https://dev.to/solleedata)
+### 🌈 [All My Projects (portfolio)](https://sollee-dev.notion.site/0066c9b8cfa04a7abbb4277ce8b63181)
+
+### 📔[Content Writer and Translator (blog)](https://dev.to/solleedata)
 
