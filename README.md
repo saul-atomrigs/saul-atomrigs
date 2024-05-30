@@ -1,5 +1,5 @@
 ### 🙋🏻‍♂️ About me
-+3 year experience web frontend engineer living and working in Seoul, Korea.
++3 year experience web frontend engineer living and working in Seoul, Korea 🇰🇷
 
 Continuosly making problem solving software with high quality code and design.
 
