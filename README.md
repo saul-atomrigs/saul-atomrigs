@@ -3,6 +3,8 @@
 
 Enjoy making things.
 
+Believe in hard-working
+
 ### 🍀 [Open Source Contributor](https://github.com/saul-atomrigs/open-source-contributions)
 
 - [@TanStack/query(react-query)](https://github.com/TanStack/query/pulls?q=is%3Apr+author%3Asaul-atomrigs+is%3Aclosed)
