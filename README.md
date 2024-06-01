@@ -19,7 +19,7 @@ Enjoy making things | Believe in hard-working
 
 - [@thirdweb/js](https://github.com/thirdweb-dev/js/issues/2296)
 
-### 🌈 [My Projects (portfolio)](https://sollee-dev.notion.site/0066c9b8cfa04a7abbb4277ce8b63181)
+### 🌈 [My Projects](https://sollee-dev.notion.site/0066c9b8cfa04a7abbb4277ce8b63181)
 
 ### 📔[Content Writer and Translator (blog)](https://dev.to/solleedata)
 
