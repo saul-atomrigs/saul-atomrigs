@@ -19,8 +19,6 @@ Enjoy making things & Believe in hard-working
 
 - [toss/suspensive (1)](https://github.com/toss/suspensive/pulls?q=is%3Apr+is%3Aclosed+author%3Asaul-atomrigs)
 
-- [remix-run/react-router (1)](https://github.com/remix-run/react-router/pull/11414)
-
 
 ### 🌈 [My Projects](https://sollee-dev.notion.site/0066c9b8cfa04a7abbb4277ce8b63181)
 
