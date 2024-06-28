@@ -3,7 +3,7 @@
 
 Enjoy making things & Believe in hard-working
 
-### 🍀 [Open Source Contributor](https://github.com/saul-atomrigs/open-source-contributions)
+### 🍀 [Open source contributor](https://github.com/saul-atomrigs/open-source-contributions)
 
 - [toss/slash (7)](https://github.com/toss/slash/pulls?q=is%3Apr+is%3Aclosed+author%3Asaul-atomrigs)
 
@@ -20,7 +20,7 @@ Enjoy making things & Believe in hard-working
 - [toss/suspensive (1)](https://github.com/toss/suspensive/pulls?q=is%3Apr+is%3Aclosed+author%3Asaul-atomrigs)
 
 
-### 🌈 [My Projects](https://sollee-dev.notion.site/0066c9b8cfa04a7abbb4277ce8b63181)
+### 🌈 [My projects](https://sollee-dev.notion.site/0066c9b8cfa04a7abbb4277ce8b63181)
 
-### 📔[Content Writer and Translator (blog)](https://dev.to/solleedata)
+### 📔[Contents writer(blog)](https://dev.to/solleedata)
 
