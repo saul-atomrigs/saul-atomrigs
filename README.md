@@ -1,8 +1,6 @@
 ### 🙋🏻‍♂️ About me
 3-year experience web frontend engineer from Seoul, Korea 🇰🇷
 
-Enjoy making things & Believe in hard-working
-
 ### 🍀 [Open source contributor](https://github.com/saul-atomrigs/open-source-contributions)
 
 - [toss/slash (7)](https://github.com/toss/slash/pulls?q=is%3Apr+is%3Aclosed+author%3Asaul-atomrigs)
