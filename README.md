@@ -1,5 +1,5 @@
 ### 🙋🏻‍♂️ About me
-3-year experience web frontend engineer from Seoul, Korea 🇰🇷
+Third-year web frontend engineer from Seoul, Korea 🇰🇷
 
 ### 🍀 [Open source contributor](https://github.com/saul-atomrigs/open-source-contributions)
 
