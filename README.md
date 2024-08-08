@@ -7,11 +7,11 @@ Web frontend engineer from Seoul, Korea 🇰🇷
 
 - [toss/suspensive (5)](https://github.com/toss/suspensive/pulls?q=is%3Apr+is%3Aclosed+author%3Asaul-atomrigs)
 
+- [react (2)](https://github.com/facebook/react/pulls?q=is%3Apr+is%3Aclosed+author%3Asaul-atomrigs)  
+
 - [TanStack/query (react-query) (2)](https://github.com/TanStack/query/pulls?q=is%3Apr+author%3Asaul-atomrigs+is%3Aclosed)
 
 - [shadcn-svelte (2)](https://github.com/huntabyte/shadcn-svelte/pulls?q=is%3Apr+is%3Aclosed+author%3Asaul-atomrigs)
-  
-- [react (1)](https://github.com/facebook/react/pulls?q=is%3Apr+is%3Aclosed+author%3Asaul-atomrigs)  
 
 - [next.js (1)](https://github.com/vercel/next.js/pull/63355)
 
