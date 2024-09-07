@@ -20,5 +20,5 @@ Web frontend engineer from Seoul, Korea 🇰🇷
 
 ### 🌈 [My projects](https://sollee-dev.notion.site/0066c9b8cfa04a7abbb4277ce8b63181)
 
-### 📔[Contents writer(blog)](https://dev.to/solleedata)
+### 📔[Blog](https://dev.to/solleedata)
 
