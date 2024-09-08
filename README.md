@@ -1,5 +1,5 @@
 ### 🙋🏻‍♂️ About me
-Web frontend engineer from Seoul, Korea 🇰🇷
+Frontend engineer from Seoul, Korea
 
 ### 🍀 [Open source contributor](https://github.com/saul-atomrigs/open-source-contributions)
 
@@ -20,5 +20,5 @@ Web frontend engineer from Seoul, Korea 🇰🇷
 
 ### 🌈 [My projects](https://sollee-dev.notion.site/0066c9b8cfa04a7abbb4277ce8b63181)
 
-### 📔[Blog](https://dev.to/solleedata)
+### 📔 [Blog](https://dev.to/solleedata)
 
