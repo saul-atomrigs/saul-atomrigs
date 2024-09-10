@@ -1,7 +1,13 @@
-### 🙋🏻‍♂️ About me
-Frontend engineer from Seoul, Korea
+### Hi there, I'm Sol 👋
+I'm a Frontend Engineer with a passion for creating smooth, high-performance user interfaces and contributing to open-source projects. My focus is on developing efficient, scalable web applications, and I've been lucky enough to collaborate with some incredible projects.
 
-### 🍀 [Open source contributor](https://github.com/saul-atomrigs/open-source-contributions)
+### 🛠 Technologies I Work With
+- Languages: TypeScript, JavaScript, HTML, CSS
+- Frameworks & Libraries: React, Next.js, Svelte, React Native, TanStack Query (React Query), 
+- Tools: Tailwind CSS, Supabase, Firebase, Vercel, Expo, pnpm
+- Other: Responsive Design, State Management, Testing
+
+### 🍀 [Open source contributions](https://github.com/saul-atomrigs/open-source-contributions)
 
 - [toss/slash (7)](https://github.com/toss/slash/pulls?q=is%3Apr+is%3Aclosed+author%3Asaul-atomrigs)
 
@@ -18,7 +24,8 @@ Frontend engineer from Seoul, Korea
 - [swr (1)](https://github.com/vercel/swr/pull/2915)
 
 
-### 🌈 [My projects](https://sollee-dev.notion.site/0066c9b8cfa04a7abbb4277ce8b63181)
+### 🌈 [Projects I've Built and Published](https://sollee-dev.notion.site/0066c9b8cfa04a7abbb4277ce8b63181)
+I love building projects to solve real-world problems. Check out my personal projects [here](https://sollee-dev.notion.site/0066c9b8cfa04a7abbb4277ce8b63181)
 
-### 📔 [Blog](https://dev.to/solleedata)
-
+### 📔 [Technical Blog](https://dev.to/solleedata)
+I also enjoy writing about tech. You can read my latest articles on frontend development, TypeScript, and web performance [here](https://dev.to/solleedata)
