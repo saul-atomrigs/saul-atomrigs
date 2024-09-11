@@ -3,7 +3,7 @@ I'm a Frontend Engineer with a passion for creating smooth, high-performance use
 
 ### 🛠 Technologies I Work With
 - Languages: TypeScript, JavaScript, HTML, CSS
-- Frameworks & Libraries: React, Next.js, Svelte, React Native, TanStack Query (React Query), 
+- Frameworks & Libraries: React, Next.js, Svelte, React Native, TanStack Query (React Query), Zustand
 - Tools: Tailwind CSS, Supabase, Firebase, Vercel, Expo, pnpm
 - Other: Responsive Design, State Management, Testing
 
