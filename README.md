@@ -31,8 +31,8 @@ I also enjoy writing about tech. You can read my latest articles on frontend dev
 <details>
   <summary>한국어</summary>
 
-### 안녕하세요, 저는 솔입니다 👋
-프론트엔드 엔지니어로서 원활하고 높은 성능의 사용자 인터페이스를 만드는 것에 열정이 있으며, 오픈 소스 프로젝트에 기여하고 있습니다. 효율적이고 확장 가능한 웹 애플리케이션을 개발하는 데 집중하고 있으며, 놀라운 프로젝트들과 협업할 수 있는 기회를 얻었습니다.
+### 안녕하세요, 저는 이솔입니다 👋
+프론트엔드 엔지니어로서 원활하고 높은 성능의 사용자 인터페이스를 만드는 것에 열정이 있으며, 오픈 소스 프로젝트에 기여하고 있습니다. 효율적이고 확장 가능한 웹 애플리케이션을 개발하는 데 집중하고 있으며, 훌륭한 동료들과 협업할 수 있는 기회가 있었습니다.
 
 ### 🛠 제가 사용하는 기술들
 - 언어: TypeScript, JavaScript, HTML, CSS
@@ -51,7 +51,7 @@ I also enjoy writing about tech. You can read my latest articles on frontend dev
 - [swr (1)](https://github.com/vercel/swr/pull/2915)
 
 ### 🌈 [제가 만든 프로젝트들](https://sollee-dev.notion.site/0066c9b8cfa04a7abbb4277ce8b63181)
-실제 문제를 해결하기 위해 프로젝트를 만드는 것을 좋아합니다. 저의 개인 프로젝트를 [여기](https://sollee-dev.notion.site/0066c9b8cfa04a7abbb4277ce8b63181)에서 확인할 수 있습니다.
+이 세상의 문제들을 해결하기 위해 프로젝트를 만드는 것을 좋아합니다. 개인 프로젝트를 [여기](https://sollee-dev.notion.site/0066c9b8cfa04a7abbb4277ce8b63181)에서 확인할 수 있습니다.
 
 ### 📔 [기술 블로그](https://dev.to/solleedata)
 저는 기술에 대해 글 쓰는 것도 좋아합니다. 프론트엔드 개발, TypeScript 및 웹 성능에 관한 최신 글을 [여기](https://dev.to/solleedata)에서 읽을 수 있습니다.
