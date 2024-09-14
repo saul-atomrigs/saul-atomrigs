@@ -10,7 +10,7 @@ I'm a frontend engineer with a passion for creating smooth, high-performance use
 - Tools: Tailwind CSS, Supabase, Firebase, Vercel, Expo, pnpm
 - Other: Responsive Design, State Management, Testing
 
-#### 🍀 [Open source contributions](https://github.com/saul-atomrigs/open-source-contributions)
+#### 🍀 Open Source Contributions
 
 - [<img src="https://badge.ttsalpha.com/api?icon=github&label=toss/slash&status=7%20PR%20merged&color=11126C" width='auto'/>](https://github.com/toss/slash/pulls?q=is%3Apr+is%3Aclosed+author%3Asaul-atomrigs)
 - [<img src="https://badge.ttsalpha.com/api?icon=github&label=toss/suspensive&status=5%20PR%20merged&color=000080" width='auto'/>](https://github.com/toss/suspensive/pulls?q=is%3Apr+is%3Aclosed+author%3Asaul-atomrigs)
@@ -20,10 +20,10 @@ I'm a frontend engineer with a passion for creating smooth, high-performance use
 - [<img src="https://badge.ttsalpha.com/api?icon=github&label=next.js&status=1%20PR%20merged&color=89CFF0" width='auto'/>](https://github.com/vercel/next.js/pull/63355)
 - [<img src="https://badge.ttsalpha.com/api?icon=github&label=swr&status=1%20PR%20merged&color=89CFF0" width='auto'/>](https://github.com/vercel/swr/pull/2915)
 
-#### 🌈 [Projects I've Built and Published](https://sollee-dev.notion.site/0066c9b8cfa04a7abbb4277ce8b63181)
+#### 🌈 Projects I've Built and Published
 I love building projects to solve real-world problems. Check out my personal projects [here](https://sollee-dev.notion.site/0066c9b8cfa04a7abbb4277ce8b63181)
 
-#### 📔 [Technical Blog](https://dev.to/solleedata)
+#### 📔 Technical Blog
 I also enjoy writing about tech. You can read my latest articles on frontend development, TypeScript, and web performance [here](https://dev.to/solleedata)
 
 </details>
@@ -42,13 +42,13 @@ I also enjoy writing about tech. You can read my latest articles on frontend dev
 
 #### 🍀 [오픈 소스 기여](https://github.com/saul-atomrigs/open-source-contributions)
 
-- [toss/slash (7)](https://github.com/toss/slash/pulls?q=is%3Apr+is%3Aclosed+author%3Asaul-atomrigs)
-- [toss/suspensive (5)](https://github.com/toss/suspensive/pulls?q=is%3Apr+is%3Aclosed+author%3Asaul-atomrigs)
-- [react (2)](https://github.com/facebook/react/pulls?q=is%3Apr+is%3Aclosed+author%3Asaul-atomrigs)  
-- [TanStack/query (react-query) (2)](https://github.com/TanStack/query/pulls?q=is%3Apr+author%3Asaul-atomrigs+is%3Aclosed)
-- [shadcn-svelte (2)](https://github.com/huntabyte/shadcn-svelte/pulls?q=is%3Apr+is%3Aclosed+author%3Asaul-atomrigs)
-- [next.js (1)](https://github.com/vercel/next.js/pull/63355)
-- [swr (1)](https://github.com/vercel/swr/pull/2915)
+- [<img src="https://badge.ttsalpha.com/api?icon=github&label=toss/slash&status=7%20PR%20merged&color=11126C" width='auto'/>](https://github.com/toss/slash/pulls?q=is%3Apr+is%3Aclosed+author%3Asaul-atomrigs)
+- [<img src="https://badge.ttsalpha.com/api?icon=github&label=toss/suspensive&status=5%20PR%20merged&color=000080" width='auto'/>](https://github.com/toss/suspensive/pulls?q=is%3Apr+is%3Aclosed+author%3Asaul-atomrigs)
+- [<img src="https://badge.ttsalpha.com/api?icon=github&label=React&status=2%20PR%20merged&color=1034A6" width='auto'/>](https://github.com/facebook/react/pulls?q=is%3Apr+is%3Aclosed+author%3Asaul-atomrigs)
+- [<img src="https://badge.ttsalpha.com/api?icon=github&label=TansStack/query&status=2%20PR%20merged&color=0F52BA" width='auto'/>](https://github.com/TanStack/query/pulls?q=is%3Apr+author%3Asaul-atomrigs+is%3Aclosed)
+- [<img src="https://badge.ttsalpha.com/api?icon=github&label=shadcn-svelte&status=2%20PR%20merged&color=73C2FB" width='auto'/>](https://github.com/huntabyte/shadcn-svelte/pulls?q=is%3Apr+is%3Aclosed+author%3Asaul-atomrigs)
+- [<img src="https://badge.ttsalpha.com/api?icon=github&label=next.js&status=1%20PR%20merged&color=89CFF0" width='auto'/>](https://github.com/vercel/next.js/pull/63355)
+- [<img src="https://badge.ttsalpha.com/api?icon=github&label=swr&status=1%20PR%20merged&color=89CFF0" width='auto'/>](https://github.com/vercel/swr/pull/2915)
 
 #### 🌈 [제가 만든 프로젝트들](https://sollee-dev.notion.site/0066c9b8cfa04a7abbb4277ce8b63181)
 이 세상의 문제들을 해결하기 위해 프로젝트를 만드는 것을 좋아합니다. 개인 프로젝트를 [여기](https://sollee-dev.notion.site/0066c9b8cfa04a7abbb4277ce8b63181)에서 확인할 수 있습니다.
