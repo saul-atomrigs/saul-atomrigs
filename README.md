@@ -58,7 +58,7 @@ I'm a frontend engineer with a passion for creating smooth, high-performance use
         </a>
       </td>
       <td align="center" width="40%">
-        <img src="https://github.com/user-attachments/assets/90329ffc-7541-4919-aee9-f28c7e4b67a9" width="40" height="40"><br>
+        <img src="https://github.com/user-attachments/assets/9897175f-b5d1-481f-b2d9-0a00b472d27e" width="40" height="40"><br>
         <sub><samp>공탐지수</samp></sub>
       </td>
     </tr>
