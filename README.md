@@ -85,9 +85,9 @@ I'm a frontend engineer with a passion for creating smooth, high-performance use
     <td valign="top" width="33%">
       <!-- Blog content -->
       <ul>
-        <li><a href="https://dev.to/solleedata/supporting-older-browsers-using-vite-2ii" target="_blank">Supporting Older Browsers using Vite</a></li>
-        <li><a href="https://dev.to/solleedata/making-a-logging-plugin-with-transpiler-8ii" target="_blank">Making a Logging Plugin with Transpiler</a></li>
-        <li><a href="https://dev.to/solleedata/unit-tests-for-frontend-developers-part-2-46da" target="_blank">Unit Tests for Frontend Developers [Part 2]</a></li>
+        <li><a href="https://dev.to/solleedata/supporting-older-browsers-using-vite-2ii" target="_blank">Supporting Older Browsers using Vite</a>-2024.07.24</li>
+        <li><a href="https://dev.to/solleedata/making-a-logging-plugin-with-transpiler-8ii" target="_blank">Making a Logging Plugin with Transpiler</a>-2024.06.24</li>
+        <li><a href="https://dev.to/solleedata/unit-tests-for-frontend-developers-part-2-46da" target="_blank">Unit Tests for Frontend Developers [Part 2]</a>-2024.06.13</li>
       </ul>
     </td>
   </tr>
