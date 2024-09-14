@@ -47,22 +47,31 @@ I'm a frontend engineer with a passion for creating smooth, high-performance use
         <img src="https://badge.ttsalpha.com/api?icon=github&label=swr&status=1%20PR%20merged&color=89CFF0" width='auto'/>
       </a>
     </td>
-    <td valign="top" width="33%" style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 20px; justify-content: flex-start;">
-  <!-- Projects content -->
-  <!-- Apps I've made and published -->
-  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
-    <img src="https://github.com/user-attachments/assets/90329ffc-7541-4919-aee9-f28c7e4b67a9" alt="썸 AI App Icon" style="width: 40px; height: 40px; border-radius: 15px;">
-    <p style="margin-top: 10px; font-size: 12px;">썸 AI</p>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
-    <img src="https://github.com/user-attachments/assets/90329ffc-7541-4919-aee9-f28c7e4b67a9" alt="DailyKpop App Icon" style="width: 40px; height: 40px; border-radius: 15px;">
-    <p style="margin-top: 10px; font-size: 12px;">DailyKpop</p>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
-    <img src="https://github.com/user-attachments/assets/90329ffc-7541-4919-aee9-f28c7e4b67a9" alt="Another App Icon" style="width: 40px; height: 40px; border-radius: 15px;">
-    <p style="margin-top: 10px; font-size: 12px;">Another App</p>
-  </div>
-</td>
+    
+   <td valign="top" width="33%">
+    <table style="width: 100%; border-collapse: collapse;">
+      <tr>
+        <td style="width: 33%; text-align: center; padding: 10px; vertical-align: top;">
+          <div style="display: inline-block; text-align: center;">
+            <img src="https://github.com/user-attachments/assets/90329ffc-7541-4919-aee9-f28c7e4b67a9" alt="썸 AI App Icon" style="width: 40px; height: 40px; border-radius: 15px; display: block; margin: 0 auto;">
+            <p style="margin-top: 10px; font-size: 12px;">썸 AI</p>
+          </div>
+        </td>
+        <td style="width: 33%; text-align: center; padding: 10px; vertical-align: top;">
+          <div style="display: inline-block; text-align: center;">
+            <img src="https://github.com/user-attachments/assets/90329ffc-7541-4919-aee9-f28c7e4b67a9" alt="DailyKpop App Icon" style="width: 40px; height: 40px; border-radius: 15px; display: block; margin: 0 auto;">
+            <p style="margin-top: 10px; font-size: 12px;">DailyKpop</p>
+          </div>
+        </td>
+        <td style="width: 33%; text-align: center; padding: 10px; vertical-align: top;">
+          <div style="display: inline-block; text-align: center;">
+            <img src="https://github.com/user-attachments/assets/90329ffc-7541-4919-aee9-f28c7e4b67a9" alt="Another App Icon" style="width: 40px; height: 40px; border-radius: 15px; display: block; margin: 0 auto;">
+            <p style="margin-top: 10px; font-size: 12px;">Another App</p>
+          </div>
+        </td>
+      </tr>
+    </table>
+  </td>
     <td valign="top" width="33%">
       <!-- Blog content -->
       <ul>
