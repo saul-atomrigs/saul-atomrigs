@@ -10,7 +10,7 @@ I'm a frontend engineer with a passion for creating smooth, high-performance use
       🍀 Open Source Contributions
     </td>
     <td valign="top" width="33%">
-      📲 Personal Apps
+      📲 Personal Apps
     </td>
     <td valign="top" width="33%">
       📔 Technical Blog - latest posts
