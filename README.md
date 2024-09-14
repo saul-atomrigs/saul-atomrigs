@@ -12,10 +12,11 @@ I'm a frontend engineer with a passion for creating smooth, high-performance use
 
 #### 🍀 [Open source contributions](https://github.com/saul-atomrigs/open-source-contributions)
 
-- [toss/slash (7)](https://github.com/toss/slash/pulls?q=is%3Apr+is%3Aclosed+author%3Asaul-atomrigs)
-- [toss/suspensive (5)](https://github.com/toss/suspensive/pulls?q=is%3Apr+is%3Aclosed+author%3Asaul-atomrigs)
+- [<img src="https://badge.ttsalpha.com/api?icon=github&label=toss/slash&status=7%20PR%20merged&color=11126C" width=200/>](https://github.com/toss/slash/pulls?q=is%3Apr+is%3Aclosed+author%3Asaul-atomrigs)
+- [<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='' src='https://img.shields.io/badge/toss/slash-100000?style=flat&logo=&logoColor=white&labelColor=black&color=CA4949'/></a><a href='https://github.com/shivamkapasia0' target="_blank"><img alt='' src='https://img.shields.io/badge/7_PR Merged-100000?style=flat&logo=&logoColor=white&labelColor=FFFFFF&color=FFFFFF'/></a>](https://github.com/toss/suspensive/pulls?q=is%3Apr+is%3Aclosed+author%3Asaul-atomrigs)
 - [React (2)](https://github.com/facebook/react/pulls?q=is%3Apr+is%3Aclosed+author%3Asaul-atomrigs)
 - [<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />](https://github.com/facebook/react/pulls?q=is%3Apr+is%3Aclosed+author%3Asaul-atomrigs)
+- ![Static Badge](https://img.shields.io/badge/2_pull_requests)
 - [TanStack/query (react-query) (2)](https://github.com/TanStack/query/pulls?q=is%3Apr+author%3Asaul-atomrigs+is%3Aclosed)
 - [shadcn-svelte (2)](https://github.com/huntabyte/shadcn-svelte/pulls?q=is%3Apr+is%3Aclosed+author%3Asaul-atomrigs)
 - [next.js (1)](https://github.com/vercel/next.js/pull/63355)
