@@ -15,7 +15,7 @@ I'm a frontend engineer with a passion for creating smooth, high-performance use
     <td valign="top" width="33%">
       🍀 Open Source Contributions
     </td>
-    <td valign="top" width="34%">
+    <td valign="top" width="33%">
       📲 Apps I've made and published
     </td>
     <td valign="top" width="33%">
@@ -23,7 +23,7 @@ I'm a frontend engineer with a passion for creating smooth, high-performance use
     </td>
   </tr>
   <tr>
-    <td valign="top" width="33%">
+    <td valign="top" width="30%">
       <!-- Open Source Contributions content -->
       <a href="https://github.com/toss/slash/pulls?q=is%3Apr+is%3Aclosed+author%3Asaul-atomrigs">
         <img src="https://badge.ttsalpha.com/api?icon=github&label=toss/slash&status=7%20PR%20merged&color=11126C" width='auto'/>
@@ -48,31 +48,39 @@ I'm a frontend engineer with a passion for creating smooth, high-performance use
       </a>
     </td>
     
-   <td valign="top" width="33%">
-    <table style="width: 100%; border-collapse: collapse;">
-      <tr>
-        <td style="width: 33%; text-align: center; padding: 10px; vertical-align: top;">
-          <div style="display: inline-block; text-align: center;">
-            <img src="https://github.com/user-attachments/assets/90329ffc-7541-4919-aee9-f28c7e4b67a9" alt="썸 AI App Icon" style="width: 40px; height: 40px; border-radius: 15px; display: block; margin: 0 auto;">
-            <p style="margin-top: 10px; font-size: 12px;">썸 AI</p>
-          </div>
-        </td>
-        <td style="width: 33%; text-align: center; padding: 10px; vertical-align: top;">
-          <div style="display: inline-block; text-align: center;">
-            <img src="https://github.com/user-attachments/assets/90329ffc-7541-4919-aee9-f28c7e4b67a9" alt="DailyKpop App Icon" style="width: 40px; height: 40px; border-radius: 15px; display: block; margin: 0 auto;">
-            <p style="margin-top: 10px; font-size: 12px;">DailyKpop</p>
-          </div>
-        </td>
-        <td style="width: 33%; text-align: center; padding: 10px; vertical-align: top;">
-          <div style="display: inline-block; text-align: center;">
-            <img src="https://github.com/user-attachments/assets/90329ffc-7541-4919-aee9-f28c7e4b67a9" alt="Another App Icon" style="width: 40px; height: 40px; border-radius: 15px; display: block; margin: 0 auto;">
-            <p style="margin-top: 10px; font-size: 12px;">Another App</p>
-          </div>
-        </td>
-      </tr>
-    </table>
-  </td>
-    <td valign="top" width="33%">
+  <td valign="top" width="40%">
+  <table>
+    <tr>
+      <td align="center" width="30%">
+        <img src="https://github.com/user-attachments/assets/90329ffc-7541-4919-aee9-f28c7e4b67a9" width="40" height="40"><br>
+        <sub><samp>썸AI</samp></sub>
+      </td>
+      <td align="center" width="30%">
+        <img src="https://github.com/user-attachments/assets/90329ffc-7541-4919-aee9-f28c7e4b67a9" width="40" height="40"><br>
+        <sub><samp>DailyKpop</samp></sub>
+      </td>
+      <td align="center" width="40%">
+        <img src="https://github.com/user-attachments/assets/90329ffc-7541-4919-aee9-f28c7e4b67a9" width="40" height="40"><br>
+        <sub><samp>공탐지수</samp></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="36%">
+        <img src="https://github.com/user-attachments/assets/90329ffc-7541-4919-aee9-f28c7e4b67a9" width="40" height="40"><br>
+        <sub><samp>칼로리AI</samp></sub>
+      </td>
+      <td align="center" width="30%">
+        <img src="https://github.com/user-attachments/assets/90329ffc-7541-4919-aee9-f28c7e4b67a9" width="40" height="40"><br>
+        <sub><samp>노엘베5층</samp></sub>
+      </td>
+      <td align="center" width="36%">
+        <img src="https://github.com/user-attachments/assets/90329ffc-7541-4919-aee9-f28c7e4b67a9" width="40" height="40"><br>
+        <sub><samp>한강물온도</samp></sub>
+      </td>
+    </tr>
+  </table>
+</td>
+    <td valign="top" width="30%">
       <!-- Blog content -->
       <ul>
         <li><a href="https://dev.to/solleedata/supporting-older-browsers-using-vite-2ii" target="_blank">Supporting Older Browsers using Vite</a></li>
