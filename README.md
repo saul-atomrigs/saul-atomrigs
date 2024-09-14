@@ -48,7 +48,7 @@ I'm a frontend engineer with a passion for creating smooth, high-performance use
       </a>
     </td>
     
-  <td valign="top" width="40%">
+  <td valign="top" width="33%">
   <table>
     <tr>
       <td align="center" width="30%">
@@ -80,7 +80,7 @@ I'm a frontend engineer with a passion for creating smooth, high-performance use
     </tr>
   </table>
 </td>
-    <td valign="top" width="30%">
+    <td valign="top" width="33%">
       <!-- Blog content -->
       <ul>
         <li><a href="https://dev.to/solleedata/supporting-older-browsers-using-vite-2ii" target="_blank">Supporting Older Browsers using Vite</a></li>
