@@ -4,12 +4,6 @@
 ### Hi there, I'm Sol 👋
 I'm a frontend engineer with a passion for creating smooth, high-performance user interfaces. I enjoy contributing to open-source projects. I am currently located in Seoul, Korea and previously I lived in Europe and the United States. 
 
-#### 🛠 Technologies I Work With
-- Languages: TypeScript, JavaScript, HTML, CSS
-- Frameworks & Libraries: React, Next.js, Svelte, React Native, TanStack Query (React Query), Zustand
-- Tools: Tailwind CSS, Supabase, Firebase, Vercel, Expo, pnpm
-- Other: Responsive Design, State Management, Testing
-
 <table>
   <tr>
     <td valign="top" width="33%">
@@ -99,12 +93,6 @@ I'm a frontend engineer with a passion for creating smooth, high-performance use
 
 ### 안녕하세요, 저는 이솔입니다 👋
 프론트엔드 엔지니어로서 원활하고 높은 성능의 사용자 인터페이스를 만드는 것에 열정이 있으며, 오픈 소스 프로젝트에 기여하고 있습니다. 효율적이고 확장 가능한 웹 애플리케이션을 개발하는 데 집중하고 있으며, 훌륭한 동료들과 협업할 수 있는 기회가 있었습니다.
-
-#### 🛠 기술 스택
-- 언어: TypeScript, JavaScript, HTML, CSS
-- 프레임워크 & 라이브러리: React, Next.js, Svelte, React Native, TanStack Query (React Query), Zustand
-- 도구: Tailwind CSS, Supabase, Firebase, Vercel, Expo, pnpm
-- 기타: 반응형 디자인, 상태 관리, 테스팅
 
 #### 🍀 [오픈 소스 기여](https://github.com/saul-atomrigs/open-source-contributions)
 
