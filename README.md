@@ -10,23 +10,54 @@ I'm a frontend engineer with a passion for creating smooth, high-performance use
 - Tools: Tailwind CSS, Supabase, Firebase, Vercel, Expo, pnpm
 - Other: Responsive Design, State Management, Testing
 
-#### 🍀 Open Source Contributions
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      🍀 Open Source Contributions
+    </td>
+    <td valign="top" width="34%">
+      📲 Apps I've made and published
+    </td>
+    <td valign="top" width="33%">
+      📔 Technical Blog
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="33%">
+      <!-- Open Source Contributions content -->
+      <a href="https://github.com/toss/slash/pulls?q=is%3Apr+is%3Aclosed+author%3Asaul-atomrigs">
+        <img src="https://badge.ttsalpha.com/api?icon=github&label=toss/slash&status=7%20PR%20merged&color=11126C" width='auto'/>
+      </a>
+      <a href="https://github.com/toss/suspensive/pulls?q=is%3Apr+is%3Aclosed+author%3Asaul-atomrigs">
+        <img src="https://badge.ttsalpha.com/api?icon=github&label=toss/suspensive&status=5%20PR%20merged&color=000080" width='auto'/>
+      </a>
+      <a href="https://github.com/facebook/react/pulls?q=is%3Apr+is%3Aclosed+author%3Asaul-atomrigs">
+        <img src="https://badge.ttsalpha.com/api?icon=github&label=React&status=2%20PR%20merged&color=1034A6" width='auto'/>
+      </a>
+      <a href="https://github.com/TanStack/query/pulls?q=is%3Apr+author%3Asaul-atomrigs+is%3Aclosed">
+        <img src="https://badge.ttsalpha.com/api?icon=github&label=TansStack/query&status=2%20PR%20merged&color=0F52BA" width='auto'/>
+      </a>
+      <a href="https://github.com/huntabyte/shadcn-svelte/pulls?q=is%3Apr+is%3Aclosed+author%3Asaul-atomrigs">
+        <img src="https://badge.ttsalpha.com/api?icon=github&label=shadcn-svelte&status=2%20PR%20merged&color=73C2FB" width='auto'/>
+      </a>
+      <a href="https://github.com/vercel/next.js/pull/63355">
+        <img src="https://badge.ttsalpha.com/api?icon=github&label=next.js&status=1%20PR%20merged&color=89CFF0" width='auto'/>
+      </a>
+      <a href="https://github.com/vercel/swr/pull/2915">
+        <img src="https://badge.ttsalpha.com/api?icon=github&label=swr&status=1%20PR%20merged&color=89CFF0" width='auto'/>
+      </a>
+    </td>
+    <td valign="top" width="34%">
+      <!-- Projects content -->
+      <p>I love building projects to solve real-world problems. Check out my personal projects <a href="https://sollee-dev.notion.site/0066c9b8cfa04a7abbb4277ce8b63181">here</a>.</p>
+    </td>
+    <td valign="top" width="33%">
+      <!-- Blog content -->
+      <p>I also enjoy writing about tech. You can read my latest articles on frontend development, TypeScript, and web performance <a href="https://dev.to/solleedata">here</a>.</p>
+    </td>
+  </tr>
+</table>
 
-- [<img src="https://badge.ttsalpha.com/api?icon=github&label=toss/slash&status=7%20PR%20merged&color=11126C" width='auto'/>](https://github.com/toss/slash/pulls?q=is%3Apr+is%3Aclosed+author%3Asaul-atomrigs)
-- [<img src="https://badge.ttsalpha.com/api?icon=github&label=toss/suspensive&status=5%20PR%20merged&color=000080" width='auto'/>](https://github.com/toss/suspensive/pulls?q=is%3Apr+is%3Aclosed+author%3Asaul-atomrigs)
-- [<img src="https://badge.ttsalpha.com/api?icon=github&label=React&status=2%20PR%20merged&color=1034A6" width='auto'/>](https://github.com/facebook/react/pulls?q=is%3Apr+is%3Aclosed+author%3Asaul-atomrigs)
-- [<img src="https://badge.ttsalpha.com/api?icon=github&label=TansStack/query&status=2%20PR%20merged&color=0F52BA" width='auto'/>](https://github.com/TanStack/query/pulls?q=is%3Apr+author%3Asaul-atomrigs+is%3Aclosed)
-- [<img src="https://badge.ttsalpha.com/api?icon=github&label=shadcn-svelte&status=2%20PR%20merged&color=73C2FB" width='auto'/>](https://github.com/huntabyte/shadcn-svelte/pulls?q=is%3Apr+is%3Aclosed+author%3Asaul-atomrigs)
-- [<img src="https://badge.ttsalpha.com/api?icon=github&label=next.js&status=1%20PR%20merged&color=89CFF0" width='auto'/>](https://github.com/vercel/next.js/pull/63355)
-- [<img src="https://badge.ttsalpha.com/api?icon=github&label=swr&status=1%20PR%20merged&color=89CFF0" width='auto'/>](https://github.com/vercel/swr/pull/2915)
-
-#### 🌈 Projects I've Built and Published
-I love building projects to solve real-world problems. Check out my personal projects [here](https://sollee-dev.notion.site/0066c9b8cfa04a7abbb4277ce8b63181)
-
-#### 📔 Technical Blog
-I also enjoy writing about tech. You can read my latest articles on frontend development, TypeScript, and web performance [here](https://dev.to/solleedata)
-
-</details>
 
 <details>
   <summary>한국어</summary>
