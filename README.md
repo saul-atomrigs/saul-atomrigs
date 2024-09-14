@@ -47,16 +47,16 @@ I'm a frontend engineer with a passion for creating smooth, high-performance use
     <tr>
       <td align="center" width="30%">
         <a href="https://github.com/saul-atomrigs/some-ai-app" target="_blank" rel="noopener noreferrer">
-        <img src="https://github.com/user-attachments/assets/407046e5-681a-42e7-94a2-cd35e9e75009" width="40" height="40"><br>
-        <sub><samp>썸AI</samp></sub>
-           </a>
+          <img src="https://github.com/user-attachments/assets/407046e5-681a-42e7-94a2-cd35e9e75009" width="40" height="40"><br>
+          <sub><samp>썸AI</samp></sub>
+        </a>
       </td>
-<td align="center" width="30%">
-  <a href="https://github.com/saul-atomrigs/dailykpop" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/user-attachments/assets/fa53b73d-6708-4b75-950c-419739c231e3" width="40" height="40"><br>
-    <sub><samp>DailyKpop</samp></sub>
-  </a>
-</td>
+      <td align="center" width="30%">
+        <a href="https://github.com/saul-atomrigs/dailykpop" target="_blank" rel="noopener noreferrer">
+          <img src="https://github.com/user-attachments/assets/fa53b73d-6708-4b75-950c-419739c231e3" width="40" height="40"><br>
+          <sub><samp>DailyKpop</samp></sub>
+        </a>
+      </td>
       <td align="center" width="40%">
         <img src="https://github.com/user-attachments/assets/90329ffc-7541-4919-aee9-f28c7e4b67a9" width="40" height="40"><br>
         <sub><samp>공탐지수</samp></sub>
