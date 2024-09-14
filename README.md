@@ -73,7 +73,7 @@ I'm a frontend engineer with a passion for creating smooth, high-performance use
       </td>
       <td align="center" width="36%">
         <img src="https://github.com/user-attachments/assets/90329ffc-7541-4919-aee9-f28c7e4b67a9" width="40" height="40"><br>
-        <sub><samp>한강수온</samp></sub>
+        <sub><samp>한강물온도</samp></sub>
       </td>
     </tr>
   </table>
