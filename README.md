@@ -12,15 +12,13 @@ I'm a frontend engineer with a passion for creating smooth, high-performance use
 
 #### 🍀 [Open source contributions](https://github.com/saul-atomrigs/open-source-contributions)
 
-- [<img src="https://badge.ttsalpha.com/api?icon=github&label=toss/slash&status=7%20PR%20merged&color=11126C" width=200/>](https://github.com/toss/slash/pulls?q=is%3Apr+is%3Aclosed+author%3Asaul-atomrigs)
-- [<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='' src='https://img.shields.io/badge/toss/slash-100000?style=flat&logo=&logoColor=white&labelColor=black&color=CA4949'/></a><a href='https://github.com/shivamkapasia0' target="_blank"><img alt='' src='https://img.shields.io/badge/7_PR Merged-100000?style=flat&logo=&logoColor=white&labelColor=FFFFFF&color=FFFFFF'/></a>](https://github.com/toss/suspensive/pulls?q=is%3Apr+is%3Aclosed+author%3Asaul-atomrigs)
-- [React (2)](https://github.com/facebook/react/pulls?q=is%3Apr+is%3Aclosed+author%3Asaul-atomrigs)
-- [<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />](https://github.com/facebook/react/pulls?q=is%3Apr+is%3Aclosed+author%3Asaul-atomrigs)
-- ![Static Badge](https://img.shields.io/badge/2_pull_requests)
-- [TanStack/query (react-query) (2)](https://github.com/TanStack/query/pulls?q=is%3Apr+author%3Asaul-atomrigs+is%3Aclosed)
-- [shadcn-svelte (2)](https://github.com/huntabyte/shadcn-svelte/pulls?q=is%3Apr+is%3Aclosed+author%3Asaul-atomrigs)
-- [next.js (1)](https://github.com/vercel/next.js/pull/63355)
-- [swr (1)](https://github.com/vercel/swr/pull/2915)
+- [<img src="https://badge.ttsalpha.com/api?icon=github&label=toss/slash&status=7%20PR%20merged&color=11126C" width='auto'/>](https://github.com/toss/slash/pulls?q=is%3Apr+is%3Aclosed+author%3Asaul-atomrigs)
+- [<img src="https://badge.ttsalpha.com/api?icon=github&label=toss/suspensive&status=5%20PR%20merged&color=000080" width='auto'/>](https://github.com/toss/suspensive/pulls?q=is%3Apr+is%3Aclosed+author%3Asaul-atomrigs)
+- [<img src="https://badge.ttsalpha.com/api?icon=github&label=React&status=2%20PR%20merged&color=1034A6" width='auto'/>](https://github.com/facebook/react/pulls?q=is%3Apr+is%3Aclosed+author%3Asaul-atomrigs)
+- [<img src="https://badge.ttsalpha.com/api?icon=github&label=TansStack/query&status=2%20PR%20merged&color=0F52BA" width='auto'/>](https://github.com/TanStack/query/pulls?q=is%3Apr+author%3Asaul-atomrigs+is%3Aclosed)
+- [<img src="https://badge.ttsalpha.com/api?icon=github&label=shadcn-svelte&status=2%20PR%20merged&color=73C2FB" width='auto'/>](https://github.com/huntabyte/shadcn-svelte/pulls?q=is%3Apr+is%3Aclosed+author%3Asaul-atomrigs)
+- [<img src="https://badge.ttsalpha.com/api?icon=github&label=next.js&status=1%20PR%20merged&color=89CFF0" width='auto'/>](https://github.com/vercel/next.js/pull/63355)
+- [<img src="https://badge.ttsalpha.com/api?icon=github&label=swr&status=1%20PR%20merged&color=89CFF0" width='auto'/>](https://github.com/vercel/swr/pull/2915)
 
 #### 🌈 [Projects I've Built and Published](https://sollee-dev.notion.site/0066c9b8cfa04a7abbb4277ce8b63181)
 I love building projects to solve real-world problems. Check out my personal projects [here](https://sollee-dev.notion.site/0066c9b8cfa04a7abbb4277ce8b63181)
