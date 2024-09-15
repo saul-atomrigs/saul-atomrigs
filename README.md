@@ -68,7 +68,7 @@ I'm a frontend engineer with a passion for creating smooth, high-performance use
         <sub><samp>칼로리AI</samp></sub>
       </td>
       <td align="center" width="30%">
-        <img src="https://github.com/user-attachments/assets/90329ffc-7541-4919-aee9-f28c7e4b67a9" width="40" height="40"><br>
+        <img src="https://github.com/user-attachments/assets/da9004fb-505e-4105-a976-87b8f3d92d19" width="40" height="40"><br>
         <sub><samp>노엘베5층</samp></sub>
       </td>
       <td align="center" width="36%">
