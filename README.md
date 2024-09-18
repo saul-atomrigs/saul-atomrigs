@@ -46,29 +46,9 @@ I'm a frontend engineer with a passion for creating smooth, high-performance use
   <table>
     <tr>
       <td align="center" width="auto" height="auto">
-        <img src="https://github.com/user-attachments/assets/90329ffc-7541-4919-aee9-f28c7e4b67a9" width="40" height="40"><br>
-        <sub><samp>한강물온도</samp></sub>
-      </td>
-      <td align="center" width="auto" height="auto">
         <a href="https://github.com/saul-atomrigs/dailykpop" target="_blank" rel="noopener noreferrer">
           <img src="https://github.com/user-attachments/assets/fa53b73d-6708-4b75-950c-419739c231e3" width="40" height="40"><br>
           <sub><samp>DailyKpop</samp></sub>
-        </a>
-      </td>
-      <td align="center" width="auto" height="auto">
-        <img src="https://github.com/user-attachments/assets/9897175f-b5d1-481f-b2d9-0a00b472d27e" width="40" height="40"><br>
-        <sub><samp>공탐지수</samp></sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="auto" height="auto">
-        <img src="https://github.com/user-attachments/assets/90329ffc-7541-4919-aee9-f28c7e4b67a9" width="40" height="40"><br>
-        <sub><samp>칼로리AI</samp></sub>
-      </td>
-      <td align="center" width="auto" height="auto">
-        <a href="https://github.com/saul-atomrigs/no-elve-5-floor" target="_blank" rel="noopener noreferrer">
-          <img src="https://github.com/user-attachments/assets/da9004fb-505e-4105-a976-87b8f3d92d19" width="40" height="40"><br>
-          <sub><samp>노엘베5층</samp></sub>
         </a>
       </td>
       <td align="center" width="auto" height="auto">
@@ -76,6 +56,26 @@ I'm a frontend engineer with a passion for creating smooth, high-performance use
           <img src="https://github.com/user-attachments/assets/407046e5-681a-42e7-94a2-cd35e9e75009" width="40" height="40"><br>
           <sub><samp>썸 AI</samp></sub>
         </a>
+      </td>
+      <td align="center" width="auto" height="auto">
+        <a href="https://github.com/saul-atomrigs/no-elve-5-floor" target="_blank" rel="noopener noreferrer">
+          <img src="https://github.com/user-attachments/assets/da9004fb-505e-4105-a976-87b8f3d92d19" width="40" height="40"><br>
+          <sub><samp>노엘베5층</samp></sub>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="auto" height="auto">
+        <img src="https://github.com/user-attachments/assets/9897175f-b5d1-481f-b2d9-0a00b472d27e" width="40" height="40"><br>
+        <sub><samp>공탐지수</samp></sub>
+      </td>
+      <td align="center" width="auto" height="auto">
+        <img src="https://github.com/user-attachments/assets/90329ffc-7541-4919-aee9-f28c7e4b67a9" width="40" height="40"><br>
+        <sub><samp>칼로리AI</samp></sub>
+      </td>
+      <td align="center" width="auto" height="auto">
+        <img src="https://github.com/user-attachments/assets/90329ffc-7541-4919-aee9-f28c7e4b67a9" width="40" height="40"><br>
+        <sub><samp>한강물온도</samp></sub>
       </td>
     </tr>
   </table>
