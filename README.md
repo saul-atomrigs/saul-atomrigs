@@ -1,13 +1,10 @@
 <details open>
   <summary>English</summary>
 
-### Hi there, I'm Sol <img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/>
+## <img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hi there, I'm Sol
 
-🌈 As a Frontend Engineer, I'm passionate about providing a $${\color{#00BFFF}clean \space yet \space performant}$$ user interface.
 
-🔑 Proactive attitude in $${\color{#FF6347}discovering \space and \space solving \space problems}$$. Accurately analyze problems that arise in the course of the project and present creative and efficient solutions.
-
-🍀 Enjoy contributing to $${\color{#32CD32}open \space source}$$ projects.
+### 
 
 <table>
   <tr>
@@ -106,11 +103,11 @@
 
 ### 안녕하세요, 개발자 이솔입니다 👋
 
-🌈 프론트엔드 엔지니어로서 $${\color{#00BFFF}깔끔하면서도 \space 고성능의}$$ 사용자 인터페이스를 만드는데에 열정을 가지고 있습니다.
+🌈 프론트엔드 엔지니어로서 깔끔하면서도 세련된 사용자 인터페이스를 만드는 것에 열정을 가지고 있습니다.
 
-🔑 $${\color{#FF6347}문제를 \space 발견하고 \space 해결하는}$$ 데에 있어 적극적인 태도를 가지고 있습니다. 프로젝트 진행 중 발생하는 문제를 정확히 분석하고 창의적이며 효율적인 해결책을 제시합니다.
+🔑 문제를 발견하고 해결하는 데에 있어 능동적인 자세를 취합니다. 프로젝트 진행 중 발생하는 문제를 정확히 분석하고, 창의적이고 효율적인 해결책을 제시합니다.
 
-🍀 $${\color{#32CD32}오픈 \space 소스}$$ 프로젝트에 기여하는 것을 즐깁니다.
+🍀 오픈소스 프로젝트에 기여하는 것을 즐깁니다.
 
 
 <table>
