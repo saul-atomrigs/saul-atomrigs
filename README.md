@@ -1,7 +1,7 @@
 <details open>
   <summary>English</summary>
 
-### Hi there, I'm Sol 👋
+### Hi there, I'm Sol <img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/>
 
 🌈 As a Frontend Engineer, I'm passionate about providing a $${\color{#00BFFF}clean \space yet \space performant}$$ user interface.
 
