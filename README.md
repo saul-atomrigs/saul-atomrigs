@@ -1,9 +1,9 @@
 <details open>
   <summary>English</summary>
 
-# <img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> ![Sol](https://img.shields.io/badge/😆-Hi,%20I'm%20Sol.%20Welcome%20to%20my%20Github%20page-8A2BE2?style=social&labelColor=8A2BE2)
+<br/>
 
-### 
+<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> ![Sol](https://img.shields.io/badge/😆-Hi,%20I'm%20Sol.%20Welcome%20to%20my%20Github%20page-8A2BE2?style=social&labelColor=8A2BE2)
 
 <table>
   <tr>
