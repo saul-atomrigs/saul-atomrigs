@@ -68,7 +68,7 @@
         </a>
       </td>
     </tr>
-    <tr>
+    <!--<tr>
       <td align="center" width="auto" height="auto">
         <img src="https://github.com/user-attachments/assets/9897175f-b5d1-481f-b2d9-0a00b472d27e" width="40" height="40"><br>
         <sub><samp>공탐지수</samp></sub>
@@ -81,7 +81,7 @@
         <img src="https://github.com/user-attachments/assets/90329ffc-7541-4919-aee9-f28c7e4b67a9" width="40" height="40"><br>
         <sub><samp>칼로리AI</samp></sub>
       </td>
-    </tr>
+    </tr>-->
   </table>
 </td>
     <td valign="top" width="33%">
