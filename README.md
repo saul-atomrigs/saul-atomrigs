@@ -27,10 +27,10 @@
         <img src="https://badge.ttsalpha.com/api?icon=github&label=toss/suspensive&status=6%20PR%20merged&color=000080" width='auto'/>
       </a>
       <a href="https://github.com/TanStack/query/pulls?q=is%3Apr+author%3Asaul-atomrigs+is%3Aclosed">
-        <img src="https://badge.ttsalpha.com/api?icon=github&label=TansStack/query&status=3%20PR%20merged&color=0F52BA" width='auto'/>
+        <img src="https://badge.ttsalpha.com/api?icon=github&label=TansStack/query&status=6%20PR%20merged&color=1034A6" width='auto'/>
       </a>
       <a href="https://github.com/facebook/react/pulls?q=is%3Apr+is%3Aclosed+author%3Asaul-atomrigs">
-        <img src="https://badge.ttsalpha.com/api?icon=github&label=React&status=2%20PR%20merged&color=1034A6" width='auto'/>
+        <img src="https://badge.ttsalpha.com/api?icon=github&label=React&status=2%20PR%20merged&color=0F52BA" width='auto'/>
       </a>
       <a href="https://github.com/huntabyte/shadcn-svelte/pulls?q=is%3Apr+is%3Aclosed+author%3Asaul-atomrigs">
         <img src="https://badge.ttsalpha.com/api?icon=github&label=shadcn-svelte&status=2%20PR%20merged&color=73C2FB" width='auto'/>
