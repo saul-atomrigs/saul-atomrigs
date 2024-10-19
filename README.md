@@ -14,7 +14,7 @@
       📲 Personal Apps
     </td>
     <td valign="top" width="33%">
-      📔 Technical Blog - latest posts
+      📔 Tech Blog - latest posts
     </td>
   </tr>
   <tr>
