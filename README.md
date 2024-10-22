@@ -1,9 +1,4 @@
-<details open>
-  <summary>English</summary>
 
-<br/>
-
-<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> ![Sol](https://img.shields.io/badge/😆-Hi,%20I'm%20Sol.%20Welcome%20to%20my%20Github%20page-8A2BE2?style=social&labelColor=8A2BE2)
 
 <table>
   <tr>
@@ -95,17 +90,3 @@
     </td>
   </tr>
 </table>
-
-
-<details>
-  <summary>한국어</summary>
-
-### 안녕하세요, 개발자 이솔입니다 👋
-
-🌈 프론트엔드 엔지니어로서 깔끔하면서도 세련된 사용자 인터페이스를 만드는 것에 열정을 가지고 있습니다.
-
-🔑 문제를 발견하고 해결하는 데에 있어 능동적인 자세를 취합니다. 프로젝트 진행 중 발생하는 문제를 정확히 분석하고, 창의적이고 효율적인 해결책을 제시합니다.
-
-🍀 오픈소스 프로젝트에 기여하는 것을 즐깁니다.
-
-</details>
