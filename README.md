@@ -91,4 +91,7 @@
   </tr>
 </table>
 
-Google UX Design Certificate
+<details>
+<summary><h3>Google UX Design Certificate</h3></summary>
+  <img width="864" alt="google_ux" src="https://github.com/user-attachments/assets/e5ad76df-477b-4277-bb66-c8e3bbcf4204">
+</details>
