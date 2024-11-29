@@ -91,5 +91,10 @@
 
 <details open>
   <summary>🌈 Google UX Design Certificate</summary>
-  <img width="864" alt="google_ux" src="https://github.com/user-attachments/assets/e5ad76df-477b-4277-bb66-c8e3bbcf4204">
+  <img width="800" alt="google_ux" src="https://github.com/user-attachments/assets/e5ad76df-477b-4277-bb66-c8e3bbcf4204">
+</details>
+
+<details>
+  <summary>🖥️ IBM IT Support Certificate</summary>
+  <img width="800" alt="Captura de pantalla 2024-11-29 a las 2 31 14 p  m" src="https://github.com/user-attachments/assets/3ba24c5d-8167-4901-a8fb-4be4c72064c5">
 </details>
