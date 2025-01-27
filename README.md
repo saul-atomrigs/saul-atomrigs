@@ -7,7 +7,7 @@
       📲 Projects
     </td>
     <td valign="top" width="33%">
-      📔 Blog
+      📔 Blog
     </td>
   </tr>
   <tr>
