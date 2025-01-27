@@ -4,10 +4,10 @@
       🍀 Open Source Contributions
     </td>
     <td valign="top" width="33%">
-      📲 Personal Apps
+      📲 Projects
     </td>
     <td valign="top" width="33%">
-      📔 Tech Blog - latest posts
+      📔 Blog
     </td>
   </tr>
   <tr>
