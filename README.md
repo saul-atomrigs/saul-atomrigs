@@ -61,20 +61,20 @@
         </a>
       </td>
     </tr>
-    <!--<tr>
+    <tr>
       <td align="center" width="auto" height="auto">
         <img src="https://github.com/user-attachments/assets/9897175f-b5d1-481f-b2d9-0a00b472d27e" width="40" height="40"><br>
         <sub><samp>공탐지수</samp></sub>
       </td>
       <td align="center" width="auto" height="auto">
-        <img src="https://github.com/user-attachments/assets/90329ffc-7541-4919-aee9-f28c7e4b67a9" width="40" height="40"><br>
-        <sub><samp>한강물온도</samp></sub>
+        <img width="40" alt="스크린샷 2025-01-28 오후 12 23 16" src="https://github.com/user-attachments/assets/f5a906ed-d122-4d4a-b992-7fa765852fee" /><br>
+        <sub><samp>영화 스트리밍 사이트</samp></sub>
       </td>
       <td align="center" width="auto" height="auto">
         <img src="https://github.com/user-attachments/assets/90329ffc-7541-4919-aee9-f28c7e4b67a9" width="40" height="40"><br>
         <sub><samp>칼로리AI</samp></sub>
       </td>
-    </tr>-->
+    </tr>
   </table>
 </td>
     <td valign="top" width="33%">
