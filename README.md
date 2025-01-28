@@ -1,15 +1,16 @@
 <table>
   <tr>
     <td valign="top" width="33%">
-      🍀 Open Source Contributions
+      🍀 <b>Open Source Contributions</b>
     </td>
     <td valign="top" width="33%">
-      📲 Projects
+      📲 <strong>Projects</strong>
     </td>
     <td valign="top" width="33%">
-      📔 Blog
+      📔 <b>Blog</b>
     </td>
   </tr>
+
   <tr>
     <td valign="top" width="30%">
       <!-- Open Source Contributions content -->
@@ -84,7 +85,7 @@
 </table>
 
 <details open>
-  <summary>🌈 Google UX Design Certificate</summary>
+  <summary><b>🌈 Google UX Design Certificate</b></summary>
   <img width="800" alt="google_ux" src="https://github.com/user-attachments/assets/e5ad76df-477b-4277-bb66-c8e3bbcf4204">
 </details>
 
