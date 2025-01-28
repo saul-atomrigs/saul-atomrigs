@@ -65,7 +65,7 @@
     <tr>
       <td align="center" width="auto" height="auto">
         <a href="https://github.com/saul-atomrigs/movie-streaming-website" target="_blank" rel="noopener noreferrer">
-        <img width="40" alt="스크린샷 2025-01-28 오후 12 23 16" src="https://github.com/user-attachments/assets/f5a906ed-d122-4d4a-b992-7fa765852fee" /><br>
+        <img width="40" alt="스크린샷 2025-01-28 오후 10 54 36" src="https://github.com/user-attachments/assets/0043ffff-8466-4855-83da-a48717e9e15a" /><br>
         <sub><samp>영화 스트리밍</samp></sub>
         </a>
       </td>
