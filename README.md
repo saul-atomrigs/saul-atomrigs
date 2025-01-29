@@ -44,15 +44,9 @@
   <table>
     <tr>
       <td align="center" width="auto" height="auto">
-        <a href="https://github.com/saul-atomrigs/dailykpop" target="_blank" rel="noopener noreferrer">
-          <img src="https://github.com/user-attachments/assets/fa53b73d-6708-4b75-950c-419739c231e3" width="40" height="40"><br>
-          <sub><samp>DailyKpop</samp></sub>
-        </a>
-      </td>
-      <td align="center" width="auto" height="auto">
-        <a href="https://github.com/saul-atomrigs/some-ai-app" target="_blank" rel="noopener noreferrer">
-          <img src="https://github.com/user-attachments/assets/407046e5-681a-42e7-94a2-cd35e9e75009" width="40" height="40"><br>
-          <sub><samp>썸 AI</samp></sub>
+        <a href="https://github.com/saul-atomrigs/movie-streaming-website" target="_blank" rel="noopener noreferrer">
+        <img width="40" alt="스크린샷 2025-01-28 오후 10 54 36" src="https://github.com/user-attachments/assets/0043ffff-8466-4855-83da-a48717e9e15a" /><br>
+        <sub><samp>영화 스트리밍</samp></sub>
         </a>
       </td>
       <td align="center" width="auto" height="auto">
@@ -61,14 +55,18 @@
           <sub><samp>노엘베5층</samp></sub>
         </a>
       </td>
-    </tr>
-    <tr>
-      <td align="center" width="auto" height="auto">
-        <a href="https://github.com/saul-atomrigs/movie-streaming-website" target="_blank" rel="noopener noreferrer">
-        <img width="40" alt="스크린샷 2025-01-28 오후 10 54 36" src="https://github.com/user-attachments/assets/0043ffff-8466-4855-83da-a48717e9e15a" /><br>
-        <sub><samp>영화 스트리밍</samp></sub>
+      <!--<td align="center" width="auto" height="auto">
+        <a href="https://github.com/saul-atomrigs/some-ai-app" target="_blank" rel="noopener noreferrer">
+          <img src="https://github.com/user-attachments/assets/407046e5-681a-42e7-94a2-cd35e9e75009" width="40" height="40"><br>
+          <sub><samp>썸 AI</samp></sub>
         </a>
       </td>
+      <td align="center" width="auto" height="auto">
+        <a href="https://github.com/saul-atomrigs/dailykpop" target="_blank" rel="noopener noreferrer">
+          <img src="https://github.com/user-attachments/assets/fa53b73d-6708-4b75-950c-419739c231e3" width="40" height="40"><br>
+          <sub><samp>DailyKpop</samp></sub>
+        </a>
+      </td>-->
     </tr>
   </table>
 </td>
