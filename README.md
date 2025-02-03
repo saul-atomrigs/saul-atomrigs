@@ -82,7 +82,7 @@
   </tr>
 </table>
 
-<details open>
+<details>
   <summary><b>🌈 Google UX Design Certificate</b></summary>
   <img width="800" alt="google_ux" src="https://github.com/user-attachments/assets/e5ad76df-477b-4277-bb66-c8e3bbcf4204">
 </details>
