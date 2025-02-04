@@ -73,10 +73,9 @@
     <td valign="top" width="33%">
       <!-- Blog content -->
       <ul>
-        <li><a href="https://dev.to/solleedata/peijibyeolro-keomponeonteu-yutil-hug-taib-moaseo-gwanrihagi-feat-nextjs-peiji-rauting-2hcn" target="_blank">지우기 쉬운 코드</a> -2025.01.29</li>
-        <li><a href="https://dev.to/solleedata/baneunghyeong-keomponeonteu-ggalggeumhage-mandeulgi-1n1c" target="_blank">반응형 컴포넌트 깔쌈하게 만들기</a> -2025.01.28</li>
-        <li><a href="https://dev.to/solleedata/why-should-we-avoid-object-props-in-react-3571" target="_blank">Why Should We Avoid Object Props in React</a>-2025.01.25</li>
-        <li><a href="https://dev.to/solleedata/how-we-reduced-700mb-of-images-load-58kd" target="_blank">How We Reduced 700mb of Images Load</a>-2024.12.01</li>
+        <li><a href="https://dev.to/solleedata/peijibyeolro-keomponeonteu-yutil-hug-taib-moaseo-gwanrihagi-feat-nextjs-peiji-rauting-2hcn" target="_blank">지우기 쉬운 코드</a></li>
+        <li><a href="https://dev.to/solleedata/baneunghyeong-keomponeonteu-ggalggeumhage-mandeulgi-1n1c" target="_blank">반응형 컴포넌트 깔쌈하게 만들기</a></li>
+        <li><a href="https://dev.to/solleedata/peiji-keomponeonteureul-habseong-keomponeonteuro-jaegujohwa-sikigi-282" target="_blank">페이지 컴포넌트를 합성 컴포넌트로 재구조화 시키기</a></li>
       </ul>
     </td>
   </tr>
