@@ -76,6 +76,7 @@
         <li><a href="https://dev.to/solleedata/peijibyeolro-keomponeonteu-yutil-hug-taib-moaseo-gwanrihagi-feat-nextjs-peiji-rauting-2hcn" target="_blank">지우기 쉬운 코드</a></li>
         <li><a href="https://dev.to/solleedata/baneunghyeong-keomponeonteu-ggalggeumhage-mandeulgi-1n1c" target="_blank">반응형 컴포넌트 깔쌈하게 만들기</a></li>
         <li><a href="https://dev.to/solleedata/peiji-keomponeonteureul-habseong-keomponeonteuro-jaegujohwa-sikigi-282" target="_blank">페이지 컴포넌트를 합성 컴포넌트로 재구조화 시키기</a></li>
+        <li><a href="https://dev.to/solleedata/aeb-webbyu-aipeureim-deiteo-gongyu-rojig-gaeseon-gyeongheom-iep">웹뷰 - 앱 - iframe 간 데이터 공유 로직 개선 작업</a></li>
       </ul>
     </td>
   </tr>
