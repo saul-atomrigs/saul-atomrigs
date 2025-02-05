@@ -49,12 +49,12 @@
         <sub><samp>영화 스트리밍</samp></sub>
         </a>
       </td>
-      <td align="center" width="auto" height="auto">
+      <!--<td align="center" width="auto" height="auto">
         <a href="https://github.com/saul-atomrigs/no-elve-5-floor" target="_blank" rel="noopener noreferrer">
           <img src="https://github.com/user-attachments/assets/da9004fb-505e-4105-a976-87b8f3d92d19" width="40" height="40"><br>
           <sub><samp>노엘베5층</samp></sub>
         </a>
-      </td>
+      </td>-->
       <!--<td align="center" width="auto" height="auto">
         <a href="https://github.com/saul-atomrigs/some-ai-app" target="_blank" rel="noopener noreferrer">
           <img src="https://github.com/user-attachments/assets/407046e5-681a-42e7-94a2-cd35e9e75009" width="40" height="40"><br>
