@@ -68,6 +68,14 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="center" width="auto" height="auto">
+        <a href="https://github.com/saul-atomrigs/retirement-pension-simulator" target="_blank" rel="noopener noreferrer">
+        <img width="40" alt="스크린샷 2025-01-28 오후 10 54 36" src="https://github.com/user-attachments/assets/4a249598-6012-40ec-bace-fbe816ca16b6" /><br>
+        <sub><samp>연금계산기</samp></sub>
+        </a>
+      </td>
+    </tr>
   </table>
 </td>
     <td valign="top" width="33%">
