@@ -44,7 +44,7 @@
 
   <td valign="top" width="33%">
   <table>
-    <tr>
+    <tr style="background-color: white">
       <td align="center" width="auto" height="auto">
         <a href="https://github.com/saul-atomrigs/retirement-pension-simulator" target="_blank" rel="noopener noreferrer">
         <img width="40" alt="스크린샷 2025-01-28 오후 10 54 36" src="https://github.com/user-attachments/assets/d6e658af-2486-4dfa-b32c-4db89b1ec94b"/><br>
