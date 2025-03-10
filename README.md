@@ -44,22 +44,22 @@
 
   <td valign="top" width="33%">
   <table>
-    <tr style="background-color: white">
+    <tr>
       <td align="center" width="auto" height="auto">
         <a href="https://github.com/saul-atomrigs/retirement-pension-simulator" target="_blank" rel="noopener noreferrer">
-        <img width="40" alt="스크린샷 2025-01-28 오후 10 54 36" src="https://github.com/user-attachments/assets/d6e658af-2486-4dfa-b32c-4db89b1ec94b"/><br>
+        <img width="40" alt="스크린샷 2025-01-28 오후 10 54 36" src="https://github.com/user-attachments/assets/2f8520a3-43a2-486e-a7ed-6095de103fb4"/><br>
         <sub><samp>연금계산기</samp></sub>
         </a>
       </td>
       <td align="center" width="auto" height="auto">
         <a href="https://github.com/saul-atomrigs/income-tax-calculator" target="_blank" rel="noopener noreferrer">
-        <img width="40" alt="스크린샷 2025-01-28 오후 10 54 36" src="https://github.com/user-attachments/assets/85d752cf-eb9c-4f21-87c9-a6165d54465f" /><br>
+        <img width="40" alt="스크린샷 2025-01-28 오후 10 54 36" src="https://github.com/user-attachments/assets/9e998dcf-1a4f-4121-a3ea-7aebc278ba8a" /><br>
         <sub><samp>세금환급계산기</samp></sub>
         </a>
       </td>
       <td align="center" width="auto" height="auto">
         <a href="https://github.com/saul-atomrigs/cafe-pos-application" target="_blank" rel="noopener noreferrer">
-        <img width="40" alt="스크린샷 2025-01-28 오후 10 54 36" src="https://github.com/user-attachments/assets/6247cba4-44e6-45e0-bf6a-1644b25b78cf" /><br>
+        <img width="40" alt="스크린샷 2025-01-28 오후 10 54 36" src="https://github.com/user-attachments/assets/a3eab832-fc8f-4abc-a472-caa5b77c1431" /><br>
         <sub><samp>키오스크POS</samp></sub>
         </a>
       </td>
