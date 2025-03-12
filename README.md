@@ -1,5 +1,5 @@
 #### React, TypeScript 기반의 프론트엔드 개발자 이솔입니다 (총 경력 3년)
-#### [🔗 경력기술서](https://sollee-dev.notion.site/199d1867724b803993fbcff71500dbde?pvs=74)
+
 <table>
   <tr>
     <td valign="top" width="33%">
