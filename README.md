@@ -31,15 +31,6 @@
       <a href="https://github.com/huntabyte/shadcn-svelte/pulls?q=is%3Apr+is%3Aclosed+author%3Asaul-atomrigs">
         <img src="https://badge.ttsalpha.com/api?icon=github&label=shadcn-svelte&status=2%20PR%20merged&color=0F52BA" width='auto'/>
       </a>
-      <a href="https://github.com/vercel/next.js/pull/63355">
-        <img src="https://badge.ttsalpha.com/api?icon=github&label=next.js&status=1%20PR%20merged&color=89CFF0" width='auto'/>
-      </a>
-      <a href="https://github.com/vercel/swr/pull/2915">
-        <img src="https://badge.ttsalpha.com/api?icon=github&label=swr&status=1%20PR%20merged&color=89CFF0" width='auto'/>
-      </a>
-      <a href="https://github.com/typescript-eslint/typescript-eslint/pull/10018">
-        <img src="https://badge.ttsalpha.com/api?icon=github&label=typescript-eslint&status=1%20PR%20merged&color=89CFF0" width='auto'/>
-      </a>
     </td>
 
   <td valign="top" width="33%">
