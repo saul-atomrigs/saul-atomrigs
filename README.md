@@ -1,4 +1,4 @@
-#### React, TypeScript 기반의 프론트엔드 개발자 이솔입니다 (총 경력 3년)
+#### React, TypeScript 기반의 프론트엔드 개발자 (총 경력 3년)
 
 <table>
   <tr>
