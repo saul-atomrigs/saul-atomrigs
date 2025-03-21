@@ -25,7 +25,7 @@
       <a href="https://github.com/toss/slash/pulls?q=is%3Apr+is%3Aclosed+author%3Asaul-atomrigs">
         <img src="https://badge.ttsalpha.com/api?icon=github&label=toss/slash&status=7%20PR%20merged&color=11126C" width='auto'/>
       </a>
-      <a href="https://github.com/facebook/react/pulls?q=is%3Apr+is%3Aclosed+author%3Asaul-atomrigs">
+      <a href="https://github.com/facebook/react/pulls?q=is%3Apr+is%3Amerged+author%3Asaul-atomrigs">
         <img src="https://badge.ttsalpha.com/api?icon=github&label=React&status=2%20PR%20merged&color=0F52BA" width='auto'/>
       </a>
       <a href="https://github.com/huntabyte/shadcn-svelte/pulls?q=is%3Apr+is%3Aclosed+author%3Asaul-atomrigs">
