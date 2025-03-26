@@ -28,9 +28,6 @@
       <a href="https://github.com/facebook/react/pulls?q=is%3Apr+is%3Amerged+author%3Asaul-atomrigs">
         <img src="https://badge.ttsalpha.com/api?icon=github&label=React&status=2%20PR%20merged&color=0F52BA" width='auto'/>
       </a>
-      <a href="https://github.com/huntabyte/shadcn-svelte/pulls?q=is%3Apr+is%3Aclosed+author%3Asaul-atomrigs">
-        <img src="https://badge.ttsalpha.com/api?icon=github&label=shadcn-svelte&status=2%20PR%20merged&color=0F52BA" width='auto'/>
-      </a>
     </td>
 
   <td valign="top" width="33%">
