@@ -58,7 +58,7 @@
       <!-- Blog content -->
       <ul>
         <li><a href="https://dev.to/solleedata/peijibyeolro-keomponeonteu-yutil-hug-taib-moaseo-gwanrihagi-feat-nextjs-peiji-rauting-2hcn" target="_blank">지우기 쉬운 코드</a></li>
-        <li><a href="https://dev.to/solleedata/baneunghyeong-keomponeonteu-ggalggeumhage-mandeulgi-1n1c" target="_blank">반응형 컴포넌트 깔쌈하게 만들기</a></li>
+        <li><a href="https://dev.to/solleedata/gieobeseo-weonhaneun-gaebalja-2lf8" target="_blank">기업에서 원하는 개발자</a></li>
         <li><a href="https://dev.to/solleedata/aeb-webbyu-aipeureim-deiteo-gongyu-rojig-gaeseon-gyeongheom-iep">WebView - App - iframe 간 데이터 공유 로직 개선 작업</a></li>
       </ul>
     </td>
